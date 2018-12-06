@@ -5,7 +5,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### AWS
 Amazon web services is a cloud based service that provides on-demand cloud computing platforms to individuals, companies and governments, on a paid subscription basis. 
-[https://github.com/Pierce-AndersonCIS/Tech_certs/edit/master/README.md]
+[https://github.com/Pierce-AndersonCIS/Tech_certs/edit/master/aws_stuff.PNG]
 
 ### Linux
 Linux is a family of free and open-source software operating systems built around the Linux kernel. Typically, Linux is packaged in a form known as a Linux distribution for both desktop and server use.
