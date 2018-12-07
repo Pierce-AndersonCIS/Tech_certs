@@ -1,9 +1,6 @@
 ## Welcome to Pierce Anderson's Certificate Page
 [Link to this page.](https://github.com/Pierce-AndersonCIS/Tech_certs/edit/master/README.md)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) 
-
-      
+Here are the completed Certifications
 ### AWS
 Amazon web services is a cloud based service that provides on-demand cloud computing platforms to individuals, companies and governments, on a paid subscription basis. 
 [ link to labs completed](https://github.com/Pierce-AndersonCIS/Tech_certs/edit/master/aws_stuff.PNG)
@@ -27,10 +24,6 @@ GitHub Inc. is a web-based hosting service for version control using Git. It is 
 ![pic](/github_cert_3.PNG)
 ![pic](/github_cert_2.PNG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pierce-AndersonCIS/Tech_certs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
