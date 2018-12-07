@@ -11,7 +11,7 @@ Amazon web services is a cloud based service that provides on-demand cloud compu
 
 ### Linux
 Linux is a family of free and open-source software operating systems built around the Linux kernel. Typically, Linux is packaged in a form known as a Linux distribution for both desktop and server use.
-![pic](Tech_certs/linux.PNG)
+![pic](/linux.PNG)
 
 ### Powershell
 PowerShell is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open-source and cross-platform
