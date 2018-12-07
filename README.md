@@ -15,6 +15,7 @@ Linux is a family of free and open-source software operating systems built aroun
 
 ### Powershell
 PowerShell is a task automation and configuration management framework from Microsoft, consisting of a command-line shell and associated scripting language. Initially a Windows component only, known as Windows PowerShell, it was made open-source and cross-platform
+![pic](/powershell_cert.PNG)
 
 ### Powerbi
 Power BI is a business analytics service provided by Microsoft. It provides interactive visualizations with self-service business intelligence capabilities, where end users can create reports and dashboards by themselves, without having to depend on information technology staff or database administrators.
