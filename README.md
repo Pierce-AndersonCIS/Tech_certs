@@ -1,5 +1,5 @@
 ## Welcome to Pierce Anderson's Certificate Page
-[link to this page](https://github.com/Pierce-AndersonCIS/Tech_certs/edit/master/README.md)
+[Link to this page.](https://github.com/Pierce-AndersonCIS/Tech_certs/edit/master/README.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) 
 
